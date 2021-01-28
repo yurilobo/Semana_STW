@@ -1,0 +1,14 @@
+INDEX VERSION 1.131+C:\temp\ws-eclipse-stw\.metadata\.plugins\org.eclipse.jdt.core
+2147392129.index
+2197576299.index
+629356182.index
+2149605980.index
+2475375283.index
+2381891103.index
+2897035477.index
+4210876544.index
+2395926042.index
+2278922536.index
+1163130734.index
+3013129711.index
+347145297.index
